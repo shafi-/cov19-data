@@ -2,17 +2,17 @@
   "data": [
   {
     "title": "Confirmed",
-    "count": 88,
+    "count": 117,
     "backgroud": "gray"
   },
   {
     "title": "Death",
-    "count": 9,
+    "count": 13,
     "backgroud": "black"
   },
   {
     "title": "Active",
-    "count": 46,
+    "count": 71,
     "backgroud": "red"
   },
   {
@@ -21,5 +21,5 @@
     "backgroud": "green"
   }
 ],
-  "lastUpdated": "2020-04-05 22:31:00"
+  "lastUpdated": "2020-04-06 15:43:00"
 }
